@@ -6,7 +6,7 @@ return (
         style={{ backgroundImage: "url('/Images/image_kea.jpg')" }}
         >
         <h2 className="text-4xl font-bold text-gray-900">Bienvenue sur mon portfolio</h2>
-        <p className="mt-4 font-bold text-gray-700">
+        <p className="mt-4 font-bold text-white">
             Apprenant projet E2C en Informatique spécialité &quot;Développeur D&apos;application&quot;
         </p>
 
